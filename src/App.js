@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import LandingPage from './components/Landing/index';
 
 function App() {
   return (
-    <div className="App bg-orange-500 text-green-50">
-      Hello!
+    <div className="App text-slate-900">
+      Welcome to Adept Imaging LLC
+      <LandingPage />
     </div>
   );
 }
