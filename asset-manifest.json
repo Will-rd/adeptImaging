@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/adeptImaging/static/css/main.b8bc74d7.css",
+    "main.js": "/adeptImaging/static/js/main.23850001.js",
+    "static/js/592.7b582c38.chunk.js": "/adeptImaging/static/js/592.7b582c38.chunk.js",
+    "static/media/hangers.jpg": "/adeptImaging/static/media/hangers.d9407598ea11d097957f.jpg",
+    "static/media/reels.jpg": "/adeptImaging/static/media/reels.045af749b700a293d8ef.jpg",
+    "static/media/whiskHat.jpg": "/adeptImaging/static/media/whiskHat.725b8917c84b69d5b842.jpg",
+    "static/media/machine.jpg": "/adeptImaging/static/media/machine.d786ffabe0cbfb1fdfe3.jpg",
+    "static/media/shelf.jpg": "/adeptImaging/static/media/shelf.281867283679b22e4aef.jpg",
+    "index.html": "/adeptImaging/index.html",
+    "main.b8bc74d7.css.map": "/adeptImaging/static/css/main.b8bc74d7.css.map",
+    "main.23850001.js.map": "/adeptImaging/static/js/main.23850001.js.map",
+    "592.7b582c38.chunk.js.map": "/adeptImaging/static/js/592.7b582c38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8bc74d7.css",
+    "static/js/main.23850001.js"
+  ]
+}
